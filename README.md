@@ -27,7 +27,7 @@ A comprehensive real-time telemetry tracking system for Euro Truck Simulator 2 (
 
 ### Quick Install (Recommended)
 
-1. Download `TNLHUB_Setup_1.0.0.exe` from [Releases](https://github.com/CrypterENC/TNLHUB/tags)
+1. Download `TNLHUB_Setup_1.0.0.exe` from [Releases](https://github.com/CrypterENC/TNLHUB/releases/tag/Testing)
 2. Run as administrator
 3. The installer automatically:
    - Detects your ETS2 installation
